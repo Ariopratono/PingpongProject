@@ -1,3 +1,36 @@
-<b>Game PingPong<b>
+<p align="center">
+  <img width="100%" alt="prostir" src="https://github.com/Ariopratono/PingpongProject/blob/main/Screenshot%20(445).png">
+  </br>
+</p>
 
-Project Game ke 2 yang dibuat
+## 🔴About
+**PingPong** adalah game pimpong bertemakan koboy dan dapat dimainkan 2 orang ketika sedang bingung ingin bermain apa. 
+
+
+<br>
+
+## 🕹️Download Game
+The game was built as an **.exe** file of <2GB. Download the game from [Download Here!](https://ario-pratono.itch.io/pingpong) (if the download link expires, please contact me). 
+
+<br>
+
+## ▶️ Video Gameplay
+-
+
+
+<br>
+
+## 👤Developer
+- Ario pratono - Unity Programmer 
+
+## 🔥How to open up the project on Unity Editor
+This game was developed using **Unity Editor 2021.3.6f1**, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems
+
+Asset:
+![image](https://github.com/Ariopratono/PingpongProject/tree/main/Assets)
+
+Packages:
+![image](https://github.com/Ariopratono/PingpongProject/tree/main/Packages)
+
+ProjectSettings:
+![image](https://github.com/Ariopratono/PingpongProject/tree/main/ProjectSettings)
